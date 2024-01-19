@@ -1,0 +1,38 @@
+- name: Donald McMillan 
+  website: https://mcmillan.it
+  image: donald.jpg 
+  biography:  >-
+    is an Assistant Professor in Human-Computer
+    Interaction at Stockholm University. His research is on the adoption
+    and use of novel technology such as multi-modal conversational agents
+    in everyday settings.
+    
+- name: Razan Jaber
+  website: 
+  image: razan-jaber.jpeg 
+  biography:  >-
+    is a final year Post Doctoral Researcher at KTH. Her work centers around the combination of conversational user interfaces with other modalities of interaction, with a focus on including \textit{gaze}. Her work draws upon human-human interaction and conversation analysis as a resource for CUI development. 
+
+- name: Minha Lee
+  website: 
+  image: minha-lee.png 
+  biography:  >-
+    is an assistant professor at the Department of Industrial Design, with a background in philosophy, digital arts, and HCI. Her research concerns morally relevant interactions with various agents like robots or chatbots. Her recent work explores how we can explore our moral self-identity through conversations with digital entities, e.g., via acting compassionately towards a chatbot. She has organized the previous editions of workshops on CUIs at various HCI venues. 
+
+- name: Benjamin Cowan 
+  website:
+  image: ben-cowan.jpg 
+  biography:  >-
+    is an Associate Professor at UCD's School of Information \& Communication Studies. His research fuses concepts in psychology, HCI and communication systems to explore how design impacts aspects of user behaviour in social and collaborative technology interactions. He is a co-founder of the ACM SIGCHI Conversational User Interfaces (CUI) conference, co-director of the HCI@UCD group, and is a principal investigator in the Science Foundation Ireland-funded ADAPT Centre.
+        
+- name: Joel Fischer
+  website: 
+  image: JoelFischer.jpg 
+  biography:  >-
+    is Professor of Human-Computer Interaction at the
+    University of Nottingham. His research takes a human-centred view on
+    AI-infused technologies. His research approach is multidisciplinary,
+    drawing on ethnography, participatory design, prototyping, and studies
+    of technology deployments.
+    
+
