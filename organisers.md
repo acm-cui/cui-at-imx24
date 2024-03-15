@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Organizers
+sidebar: [ "key-dates", "registration" ]
 
 nav_text: Organizers
 nav_position: 4

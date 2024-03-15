@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+sidebar: [ "key-dates", "registration" ]
 
 nav_text: Contact
 nav_position: 9

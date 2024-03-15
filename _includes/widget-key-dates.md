@@ -12,3 +12,6 @@ June 2nd, 2024
 
 **Workshop date**<br>
 June 12th, 2024
+
+### Submit Via EasyChair
+[https://easychair.org/conferences/?conf=cuiimx2024](https://easychair.org/conferences/?conf=cuiimx2024)

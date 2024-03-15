@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Accepted position papers
+sidebar: [ "key-dates", "registration" ]
+
 
 <!--nav_text: Accepted papers
 nav_position: 3 -->
